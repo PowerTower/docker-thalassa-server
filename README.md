@@ -1,2 +1,4 @@
-# thalassa-docker
-Thalassa Docker-ized.
+# Thalassa Server
+## Docker Container
+
+@TODO: Show environment variables.
